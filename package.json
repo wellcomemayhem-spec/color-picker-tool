@@ -2,6 +2,8 @@
   "name": "color-picker-tool",
   "version": "1.0.0",
   "private": true,
+  "description": "A tool for picking and displaying colors.",
+  "author": "Your Name <your.email@example.com>",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
