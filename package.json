@@ -4,6 +4,7 @@
   "private": true,
   "description": "A tool for picking and displaying colors.",
   "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
