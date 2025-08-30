@@ -1,6 +1,6 @@
 {
-  "name": "color-picker-tool",
-  "version": "1.0.0",
+  "name": "color-picker-tool", // The name of the project
+  "version": "1.0.0", // Current version of the project
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
